@@ -12,6 +12,25 @@ The Stock Data Scraper is an advanced Python application designed to collect, an
 - **Dynamic Visualizations:** Utilizes Matplotlib to create interactive and informative charts and graphs, enhancing data comprehension.
 - **Automated Scheduling:** Employs the Schedule library to automate daily data scraping and analysis tasks, ensuring timely updates and continuous monitoring.
 
+## Technical Details
+### Libraries Used
+- "BeautifulSoup" for web scraping
+- "Requests" fpor handling HTTP requests
+- "Pandas" for data manipulation and cleaning
+- "Matplotlib" for visualizations
+- "Schedule" for automatiing daily tasks
+
+### Data Flow
+- Scrape real time data from investing.com.
+- Process and clean the data using Pandas.
+- Calculate and plot the following technical indicators:
+    1. Moving Average
+    2. Relative Strength Index (RSI)
+    3. Bollinger Bands
+    4. Moving Average Convergence Divergence (MACD)
+- Visualize the data using Matplotlib.
+- Automate daily updates and analysis with Schedule.
+
 ## Usage
 
 1. Customize the target stocks by modifying the "target_stocks" list in the script.
