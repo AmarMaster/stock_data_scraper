@@ -24,3 +24,10 @@ The Stock Data Scraper is an advanced Python application designed to collect, an
 - **requirements.txt** : List of required python packages
 - **README.md** : Project Documentation
 
+## Contributing
+
+Contributions are always welcome! I love constructive criticism and am open to learn especially from senior programmers so feel free to submit pull requsts for any bug fixes or enhancements.
+
+## License
+
+This project is licensed under the MIT License - kindly see the LICENSE.md file for more details.
