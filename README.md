@@ -15,7 +15,7 @@ The Stock Data Scraper is an advanced Python application designed to collect, an
 ## Technical Details
 ### Libraries Used
 - "BeautifulSoup" for web scraping
-- "Requests" fpor handling HTTP requests
+- "Requests" for handling HTTP requests
 - "Pandas" for data manipulation and cleaning
 - "Matplotlib" for visualizations
 - "Schedule" for automatiing daily tasks
