@@ -50,3 +50,10 @@ Contributions are always welcome! I love constructive criticism and am open to l
 ## License
 
 This project is licensed under the MIT License - kindly see the LICENSE.md file for more details.
+
+## Future Projections
+
+1. Logging system: A logging system to help keep track of the program's progress.
+2. Candlestick conversion: A visualization tool to help convert the data from csv entries to candlestick form which is highly popular form of visualisation.
+3. Technical Indicators: Additional and more complex technical indicators to provide a more accurate analysis tool.
+4. Machine Learning: Potential applications of Machine Learning principles and algorithms on stock data analysis.
