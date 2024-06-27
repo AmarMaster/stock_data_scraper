@@ -8,7 +8,9 @@ import urllib.parse
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 current_dir = os.path.abspath(os.path.dirname(__file__))
-target_stocks = ["Tesla", "Adani Enterprises", "Microsoft", "T Mobile", "NVIDIA", "LIC Housing", "Gamestop"]
+
+#Insert target stocks here
+target_stocks = ["Tesla", "Adani Enterprises", "Microsoft", "T Mobile", "NVIDIA", "LIC Housing", "Gamestop"] 
 
 # Get most recent data from CSV file
 def get_data(stock_name):
